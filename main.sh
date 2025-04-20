@@ -1,7 +1,7 @@
 #!/bin/env bash
 set -euo pipefail
 
-cd ~/tokyo2024-poster-map/ #Path to the folder
+cd ~/github/poster-map/ #Path to the folder
 
 git pull
 
