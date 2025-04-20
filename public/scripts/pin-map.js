@@ -128,6 +128,41 @@ function onLocationError(e) {
       'long': 139.2819004,
       'zoom': 11,
     },
+    'taito-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'sumida-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'koutou-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'adachi-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'edogawa-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'katsushika-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
+    'arakawa-ku': {
+      'lat': 35.7266074,
+      'long': 139.8292152,
+      'zoom': 14,
+    },
     'nishitokyo': {
       'lat': 35.731028, 
       'long': 139.481822,

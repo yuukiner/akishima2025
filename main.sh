@@ -24,6 +24,6 @@ then
     git add .
     git commit -m "Update"
     git push
-    source .env
-    npx netlify-cli deploy --prod --message "Deploy" --dir=./public --auth $NETLIFY_AUTH_TOKEN
+    #source .env
+    #npx netlify-cli deploy --prod --message "Deploy" --dir=./public --auth $NETLIFY_AUTH_TOKEN
 fi
