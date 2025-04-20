@@ -30,6 +30,16 @@ def main(input_path, output_path):
         'edogawa-ku': '江戸川区',        
         'katsushika-ku': '葛飾区',        
         'arakawa-ku': '荒川区',        
+
+        'shinagawa-ku': '品川区',        
+        'meguro-ku': '目黒区',        
+        'ohta-ku': '大田区',        
+        'setagaya-ku': '世田谷区',        
+        'nakano-ku': '中野区',        
+        'suginami-ku': '杉並区',        
+        'nerima-ku': '練馬区',        
+        'itabashi-ku': '板橋区',        
+        'kita-ku': '北区',        
         'nishitokyo': '西東京市',        
     }
     

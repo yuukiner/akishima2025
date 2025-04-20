@@ -163,6 +163,51 @@ function onLocationError(e) {
       'long': 139.8292152,
       'zoom': 14,
     },
+    'shinagawa-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'meguro-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'ohta-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'setagaya-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'nakano-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'suginami-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'nerima-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'itabashi-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
+    'kita-ku': {
+      'lat': 35.6861171,
+      'long': 139.6490942,
+      'zoom': 13,
+    },
     'nishitokyo': {
       'lat': 35.731028, 
       'long': 139.481822,
