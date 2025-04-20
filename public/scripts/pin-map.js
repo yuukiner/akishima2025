@@ -128,6 +128,11 @@ function onLocationError(e) {
       'long': 139.2819004,
       'zoom': 11,
     },
+    'nishitokyo': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
   }
   const block = getBlockFromUrlParam()
   let latlong, zoom;
