@@ -208,6 +208,41 @@ function onLocationError(e) {
       'long': 139.6490942,
       'zoom': 13,
     },
+    'chiyoda-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'tyuou-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'minato-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'shinjuku-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'bunkyo-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'shibuya-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
+    'toyoshima-ku': {
+      'lat': 35.6916896,
+      'long': 139.7254559,
+      'zoom': 14,
+    },
     'nishitokyo': {
       'lat': 35.731028, 
       'long': 139.481822,

@@ -40,6 +40,14 @@ def main(input_path, output_path):
         'nerima-ku': '練馬区',        
         'itabashi-ku': '板橋区',        
         'kita-ku': '北区',        
+
+        'chiyoda-ku': '千代田区',        
+        'tyuou-ku': '中央区',        
+        'minato-ku': '港区',        
+        'shinjuku-ku': '新宿区',        
+        'bunkyo-ku': '文京区',        
+        'shibuya-ku': '渋谷区',        
+        'toyoshima-ku': '豊島区',        
         'nishitokyo': '西東京市',        
     }
     
