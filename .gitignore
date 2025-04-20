@@ -5,3 +5,4 @@
 .netlify
 
 public/data/log/*
+venv/*
