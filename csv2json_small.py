@@ -15,6 +15,7 @@ def main(input_path, output_path):
     final_data = merged_data.copy()[['area_id', 'name', 'lat', 'long', 'status', 'note']]
 
     area_blocks = {
+        'nishitokyo': '西東京市',        
         '23-east': '23区東部',
         '23-west': '23区西部',
         '23-city': '23区都心部',
