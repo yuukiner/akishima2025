@@ -47,8 +47,27 @@ def main(input_path, output_path):
         'shinjuku-ku': '新宿区',        
         'bunkyo-ku': '文京区',        
         'shibuya-ku': '渋谷区',        
-        'toyoshima-ku': '豊島区',        
+        'toyoshima-ku': '豊島区',
+
+		'hachiouji': '八王子市',
+		'tachikawa': '立川市',
+		'musashino': '武蔵野市',
+		'mitaka': '三鷹市',
+		'oume': '青梅市',
+		'fuchu': '府中市',
+		'akishima': '昭島市',
+		'machida': '町田市',
+		'koganei': '小金井市',
+		'kodaira': '小平市',
+		'hino': '日野市',
         'nishitokyo': '西東京市',        
+
+		'nishitama': '西多摩',
+		'minamitama': '南多摩',
+		'kitatama1': '北多摩第一',
+		'kitatama2': '北多摩第二',
+		'kitatama3': '北多摩第三',
+		'kitatama4': '北多摩第四',
     }
     
     for block_key, block_name in area_blocks.items():
