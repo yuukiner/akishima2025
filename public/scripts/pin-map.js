@@ -248,6 +248,91 @@ function onLocationError(e) {
       'long': 139.481822,
       'zoom': 13,
     },
+    'koganei': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
+    'kodaira': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
+    'musashino': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
+    'kitatama1': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
+    'kitatama4': {
+      'lat': 35.731028, 
+      'long': 139.481822,
+      'zoom': 13,
+    },
+    'mitaka': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'machida': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'fuchu': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'tachikawa': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'kitatama2': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'kitatama3': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+    'minamitama': {
+      'lat': 35.6229399,
+      'long': 139.4584664,
+      'zoom': 13,
+    },
+  　'hachiouji': {
+      'lat': 35.7097579, 
+      'long': 139.2904051,
+      'zoom': 12,
+    },
+  　'oume': {
+      'lat': 35.7097579, 
+      'long': 139.2904051,
+      'zoom': 12,
+    },
+  　'akishima': {
+      'lat': 35.7097579, 
+      'long': 139.2904051,
+      'zoom': 12,
+    },
+  　'hino': {
+      'lat': 35.7097579, 
+      'long': 139.2904051,
+      'zoom': 12,
+    },
+  　'nishitama': {
+      'lat': 35.7097579, 
+      'long': 139.2904051,
+      'zoom': 12,
+    },
   }
   const block = getBlockFromUrlParam()
   let latlong, zoom;
