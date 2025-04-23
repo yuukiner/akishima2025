@@ -15,7 +15,8 @@ status_counts = all_df.groupby('area').apply(
             (x['status'] == 5).sum() + #異常対応中
             (x['status'] == 6).sum() #削除
         ) / len(x)
-    ) 
+    ),
+    include_groups=False
 ).reset_index(name='progress')
 
 # 全体
