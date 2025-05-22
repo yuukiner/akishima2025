@@ -6,7 +6,7 @@ cd ~/github/poster-map/ #Path to the folder
 git pull
 
 # Download latest CSV from spreadsheet datbase
-curl -sL "https://script.google.com/macros/s/AKfycbw-I_n7paY7U4SZ6xj5GCydMLNXYT1nocWCxijuiq8HwA_VX-V0xGtLLEoQJRXJQj0IhQ/exec" > public/data/all.csv
+curl -sL "https://script.google.com/macros/s/AKfycbz54aol9Z_oDGFMKZTR6FkKrVohR3WKR00Va7RFmRrcKkm1zVUz8d8LFt4C0Z50rfXgFw/exec" > public/data/all.csv
 
 # all.json
 python3 csv2json_small.py public/data/all.csv public/data/
