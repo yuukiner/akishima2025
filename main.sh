@@ -6,7 +6,7 @@ set -euo pipefail
 git pull
 
 # Download latest CSV from spreadsheet datbase
-curl -sL "https://script.google.com/macros/s/AKfycbz54aol9Z_oDGFMKZTR6FkKrVohR3WKR00Va7RFmRrcKkm1zVUz8d8LFt4C0Z50rfXgFw/exec" > public/data/all.csv
+curl -sL "https://script.google.com/macros/s/AKfycbwUMVV8BojA0QeedYKg_kC8QLM9tuL4jD4gaj52azQwTFJtXp23Vc1cX4BTk26Iur7wJQ/exec" > public/data/all.csv
 
 # all.json
 python3 csv2json_small.py public/data/all.csv public/data/
