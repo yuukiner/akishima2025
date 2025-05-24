@@ -1,8 +1,18 @@
 #!/bin/env bash
 set -euo pipefail
 
-#cd ~/github/poster-map/ #Path to the folder
+# 必要なコマンドのパスを通す (前回追加した部分)
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/sbin:/sbin:$PATH"
 
+# ★ここを修正/追加★
+# スクリプトの実行ディレクトリに移動
+cd /mnt/c/Users/yukim/akishima2025/
+
+# Python仮想環境をアクティベートする (前回追加した部分)
+source venv/bin/activate
+
+
+#cd ~/github/poster-map/ #Path to the folder
 git pull
 
 # Download latest CSV from spreadsheet datbase
