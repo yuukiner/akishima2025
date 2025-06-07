@@ -56,6 +56,8 @@ def main(input_path, output_path):
 		'oume': '青梅市',
 		'fuchu': '府中市',
 		'akishima': '昭島市',
+		'akishima2': '昭島市2',
+		'akishima3': '昭島市3',
 		'machida': '町田市',
 		'koganei': '小金井市',
 		'kodaira': '小平市',
