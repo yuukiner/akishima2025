@@ -204,7 +204,7 @@
         "area_block": "多摩西部"
     },
     "52": {
-        "area_name": "昭島市",
+        "area_name": "昭島市1",
         "area_block": "多摩西部"
     },
     "53": {
@@ -246,5 +246,45 @@
     "62": {
         "area_name": "小笠原村",
         "area_block": "島しょ部"
+    },
+    "63": {
+        "area_name": "昭島市2",
+        "area_block": "多摩西部"
+    },
+    "64": {
+        "area_name": "昭島市3",
+        "area_block": "多摩西部"
+    },
+    "65": {
+        "area_name": "昭島市4",
+        "area_block": "多摩西部"
+    },
+    "66": {
+        "area_name": "昭島市5",
+        "area_block": "多摩西部"
+    },
+    "67": {
+        "area_name": "昭島市6",
+        "area_block": "多摩西部"
+    },
+    "68": {
+        "area_name": "昭島市2",
+        "area_block": "多摩西部"
+    },
+    "69": {
+        "area_name": "昭島市3",
+        "area_block": "多摩西部"
+    },
+    "70": {
+        "area_name": "昭島市4",
+        "area_block": "多摩西部"
+    },
+    "66": {
+        "area_name": "昭島市5",
+        "area_block": "多摩西部"
+    },
+    "67": {
+        "area_name": "昭島市6",
+        "area_block": "多摩西部"
     }
 }
