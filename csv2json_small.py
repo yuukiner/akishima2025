@@ -22,6 +22,7 @@ def main(input_path, output_path):
         'akishima-nantyuo': '昭島-南中央部',
         'akishima-kawanishi': '昭島-川南西部',
         'akishima-kawahigasi': '昭島-川南東部',
+        
 		'akishima1': '昭島市1',
 		'akishima2': '昭島市2',
 		'akishima3': '昭島市3',
