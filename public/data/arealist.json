@@ -268,23 +268,59 @@
         "area_block": "多摩西部"
     },
     "68": {
-        "area_name": "昭島市2",
+        "area_name": "昭島市7",
         "area_block": "多摩西部"
     },
     "69": {
-        "area_name": "昭島市3",
+        "area_name": "昭島市8",
         "area_block": "多摩西部"
     },
     "70": {
-        "area_name": "昭島市4",
+        "area_name": "昭島市9",
         "area_block": "多摩西部"
     },
-    "66": {
-        "area_name": "昭島市5",
+    "71": {
+        "area_name": "昭島市10",
         "area_block": "多摩西部"
     },
-    "67": {
-        "area_name": "昭島市6",
+    "72": {
+        "area_name": "昭島市11",
+        "area_block": "多摩西部"
+    },
+    "73": {
+        "area_name": "昭島市12",
+        "area_block": "多摩西部"
+    },
+    "74": {
+        "area_name": "昭島市13",
+        "area_block": "多摩西部"
+    },
+    "75": {
+        "area_name": "昭島市14",
+        "area_block": "多摩西部"
+    },
+    "76": {
+        "area_name": "昭島市15",
+        "area_block": "多摩西部"
+    },
+    "77": {
+        "area_name": "昭島市16",
+        "area_block": "多摩西部"
+    },
+    "78": {
+        "area_name": "昭島市17",
+        "area_block": "多摩西部"
+    },
+    "79": {
+        "area_name": "昭島市18",
+        "area_block": "多摩西部"
+    },
+    "80": {
+        "area_name": "昭島市19",
+        "area_block": "多摩西部"
+    },
+    "81": {
+        "area_name": "昭島市20",
         "area_block": "多摩西部"
     }
 }
