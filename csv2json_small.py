@@ -55,7 +55,7 @@ def main(input_path, output_path):
 		'mitaka': '三鷹市',
 		'oume': '青梅市',
 		'fuchu': '府中市',
-		'akishima1': '昭島市',
+		'akishima1': '昭島市1',
 		'akishima2': '昭島市2',
 		'akishima3': '昭島市3',
 		'akishima4': '昭島市4',
