@@ -249,7 +249,7 @@
     },
     "63": {
         "area_name": "昭島市2",
-        "area_block": "昭島市2"
+        "area_block": "akishimaD"
     },
     "64": {
         "area_name": "昭島市3",
@@ -261,7 +261,7 @@
     },
     "66": {
         "area_name": "昭島市5",
-        "area_block": "昭島市5"
+        "area_block": "akishimaD"
     },
     "67": {
         "area_name": "昭島市6",
@@ -273,7 +273,7 @@
     },
     "69": {
         "area_name": "昭島市8",
-        "area_block": "昭島市8"
+        "area_block": "akishimaD"
     },
     "70": {
         "area_name": "昭島市9",
@@ -309,7 +309,7 @@
     },
     "78": {
         "area_name": "昭島市17",
-        "area_block": "昭島市17"
+        "area_block": "akishimaD"
     },
     "79": {
         "area_name": "昭島市18",
@@ -321,6 +321,6 @@
     },
     "81": {
         "area_name": "昭島市20",
-        "area_block": "昭島市20"
+        "area_block": "akishimaD"
     }
 }
