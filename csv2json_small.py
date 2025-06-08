@@ -43,18 +43,6 @@ def main(input_path, output_path):
 		'akishima18': '昭島市18',
 		'akishima19': '昭島市19',
 		'akishima20': '昭島市20',
-		'machida': '町田市',
-		'koganei': '小金井市',
-		'kodaira': '小平市',
-		'hino': '日野市',
-        'nishitokyo': '西東京市',        
-
-		'nishitama': '西多摩',
-		'minamitama': '南多摩',
-		'kitatama1': '北多摩第一',
-		'kitatama2': '北多摩第二',
-		'kitatama3': '北多摩第三',
-		'kitatama4': '北多摩第四',
     }
     
     for block_key, block_name in area_blocks.items():
