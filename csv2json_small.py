@@ -14,35 +14,13 @@ def main(input_path, output_path):
 
     final_data = merged_data.copy()[['area_id', 'name', 'lat', 'long', 'status', 'note']]
 
-    area_blocks = {
-        'akishima-hokusei': '昭島-北西部',
-        'akishima-hokutou': '昭島-北東部',
-        'akishima-nansei': '昭島-南西部',
-        'akishima-nantou': '昭島-南東部',
-        'akishima-nantyuo': '昭島-南中央部',
-        'akishima-kawanishi': '昭島-川南西部',
-        'akishima-kawahigasi': '昭島-川南東部',
-        
+    area_blocks = {        
 		'akishima1': '昭島市1',
 		'akishima2': '昭島市2',
 		'akishima3': '昭島市3',
 		'akishima4': '昭島市4',
 		'akishima5': '昭島市5',
 		'akishima6': '昭島市6',
-		'akishima7': '昭島市7',
-		'akishima8': '昭島市8',
-		'akishima9': '昭島市9',
-		'akishima10': '昭島市10',
-		'akishima11': '昭島市11',
-		'akishima12': '昭島市12',
-		'akishima13': '昭島市13',
-		'akishima14': '昭島市14',
-		'akishima15': '昭島市15',
-		'akishima16': '昭島市16',
-		'akishima17': '昭島市17',
-		'akishima18': '昭島市18',
-		'akishima19': '昭島市19',
-		'akishima20': '昭島市20',
     }
     
     for block_key, block_name in area_blocks.items():
