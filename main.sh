@@ -15,8 +15,8 @@ source venv/bin/activate
 #cd ~/github/poster-map/ #Path to the folder
 git pull
 
-# Download latest CSV from spreadsheet datbase
-curl -sL "https://script.google.com/macros/s/AKfycbwUMVV8BojA0QeedYKg_kC8QLM9tuL4jD4gaj52azQwTFJtXp23Vc1cX4BTk26Iur7wJQ/exec" > public/data/all.csv
+# Download latest CSV from spreadsheet database
+curl -sL "https://docs.google.com/spreadsheets/d/1jX6HPImNFtsjj9nmQq95GqqY3ZGLL5URT7Nla-YyZRY/export?format=csv" > public/data/all.csv
 
 # all.json
 python3 csv2json_small.py public/data/all.csv public/data/
