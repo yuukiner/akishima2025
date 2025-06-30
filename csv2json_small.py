@@ -27,7 +27,11 @@ def main(input_path, output_path):
 		'hamura1': '羽村市1',
 		'hamura2': '羽村市2',
 		'hamura3': '羽村市3',
-		'hamura4': '羽村市4'
+		'hamura4': '羽村市4',
+		'hinode1': '日の出町1',
+		'hinode2': '日の出町2',
+		'hinode3': '日の出町3',
+		'hinode4': '日の出町4'
     }
     
     for block_key, block_name in area_blocks.items():
