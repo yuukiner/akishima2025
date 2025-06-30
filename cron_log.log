@@ -282,3 +282,8 @@ File saved to public/data/all.json
 Results have been written to ./public/data/summary.json
 {'1.0': '0.0', '2.0': '0.0', '3.0': '29.0', '4.0': '0.0', '5.0': '0.0', '6.0': '43.0', '7.0': '0.0', '8.0': '0.0', '9.0': '0.0', '10.0': '0.0', '11.0': '0.0', '12.0': '9.0', '13.0': '0.0', '14.0': '0.0', '15.0': '0.0', '16.0': '0.0', '17.0': '0.0', '18.0': '0.0', '19.0': '0.0', '20.0': '0.0', '21.0': '0.0', '22.0': '0.0', 'total': '81'}
 Results have been written to ./public/data/summary_absolute.json
+[main be9edd9] Update
+ 2 files changed, 26 insertions(+), 2 deletions(-)
+To github.com:yuukiner/akishima2025.git
+   6fb119b..be9edd9  main -> main
+/mnt/c/Users/yukim/akishima2025/main.sh: line 37: .env: No such file or directory
