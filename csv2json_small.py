@@ -20,6 +20,10 @@ def main(input_path, output_path):
 		'akishima3': '昭島市3',
 		'akishima4': '昭島市4',
 		'akishima5': '昭島市5',
+		'fussa1': '福生市1',
+		'fussa2': '福生市2',
+		'fussa3': '福生市3',
+		'fussa4': '福生市4',
     }
     
     for block_key, block_name in area_blocks.items():
