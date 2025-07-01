@@ -485,3 +485,53 @@ File saved to public/data/all.json
 Results have been written to ./public/data/summary.json
 {'1.0': '0.0', '2.0': '79.0', '3.0': '0.0', '4.0': '0.0', '5.0': '0.0', '6.0': '0.0', '7.0': '0.0', '8.0': '0.0', '9.0': '0.0', '10.0': '0.0', '11.0': '0.0', '12.0': '9.0', '13.0': '0.0', '14.0': '0.0', '15.0': '0.0', '16.0': '0.0', '17.0': '0.0', '18.0': '0.0', '19.0': '0.0', '20.0': '0.0', '21.0': '0.0', '22.0': '0.0', 'total': '88'}
 Results have been written to ./public/data/summary_absolute.json
+[main 8164778] Update
+ 1 file changed, 29 insertions(+)
+To github.com:yuukiner/akishima2025.git
+   50a266e..8164778  main -> main
+/mnt/c/Users/yukim/akishima2025/main.sh: line 37: .env: No such file or directory
+Already up to date.
+Filtered file saved to public/data/block/akishima1.json
+Filtered file saved to public/data/block/akishima2.json
+Filtered file saved to public/data/block/akishima3.json
+Filtered file saved to public/data/block/akishima4.json
+Filtered file saved to public/data/block/akishima5.json
+Filtered file saved to public/data/block/akishima6.json
+Filtered file saved to public/data/block/fussa1.json
+Filtered file saved to public/data/block/fussa2.json
+Filtered file saved to public/data/block/fussa3.json
+Filtered file saved to public/data/block/fussa4.json
+Filtered file saved to public/data/block/hamura1.json
+Filtered file saved to public/data/block/hamura2.json
+Filtered file saved to public/data/block/hamura3.json
+Filtered file saved to public/data/block/hamura4.json
+Filtered file saved to public/data/block/hinode1.json
+Filtered file saved to public/data/block/hinode2.json
+Filtered file saved to public/data/block/hinode3.json
+Filtered file saved to public/data/block/hinode4.json
+Filtered file saved to public/data/block/okutama1.json
+Filtered file saved to public/data/block/hinohara.json
+Filtered file saved to public/data/block/mizuho.json
+Filtered file saved to public/data/block/akiruno.json
+File saved to public/data/all.json
+Traceback (most recent call last):
+  File "/mnt/c/Users/yukim/akishima2025/summarize_progress.py", line 5, in <module>
+    all_df = pd.read_csv('public/data/all.csv')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/yukim/akishima2025/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/yukim/akishima2025/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/yukim/akishima2025/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/yukim/akishima2025/venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/yukim/akishima2025/venv/lib/python3.12/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

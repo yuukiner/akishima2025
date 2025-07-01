@@ -33,7 +33,10 @@ def main(input_path, output_path):
 		'hinode2': '日の出町2',
 		'hinode3': '日の出町3',
 		'hinode4': '日の出町4',
-		'okutama1': '奥多摩町'
+		'okutama1': '奥多摩町',
+		'hinohara': '檜原村',
+		'mizuho': '瑞穂町',
+		'akiruno': 'あきる野'
     }
     
     for block_key, block_name in area_blocks.items():
